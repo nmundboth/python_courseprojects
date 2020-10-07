@@ -11,3 +11,4 @@ chirps.txt and profiles.txt are properties of the University of Toronto.
 
 assignment3.py is about using dictionaries to store user information on a fictional social media user.
 
+sin_and_credit_checker.py uses Luhn's algorithm to verify the validity of 9-digit SIN numbers and 16-digit credit card numbers.
